@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning NODE JS. I'm really liking this server side deal. All the pieces coming together. I wonder if I'll have to grow out my mustache again cause I'm using mustache . . . 
+- 
+
 <!--
 **AgentLopez/AgentLopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
