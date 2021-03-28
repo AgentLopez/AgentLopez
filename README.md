@@ -7,11 +7,15 @@
 
 ### Assignment Overviews
 
-- [1st Group Project](/HoopsWizard) Check out our first group project. It's a client side JavaScript API consuming app.
+- [Week8 Assignmets](https://github.com/AgentLopez/Week8) Read more about the Full Stack - External Database assigments I finished.
 
-- [Week7 Assignmets](/Week7) Read more about the Back End - NodeJS assigments I finished.
+- [Week7 Assignmets](https://github.com/AgentLopez/Week7) Read more about the Back End - NodeJS assigments I finished.
 
-- [Week8 Assignmets](/Week8) Read more about the Full Stack - External Database assigments I finished.
+- [1st Group Project](https://github.com/AgentLopez/HoopsWizard) Check out our first group project. It's a client side JavaScript API consuming app.
+
+
+
+
 
 <!--
 **AgentLopez/AgentLopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
