@@ -4,6 +4,15 @@
 
 - [Linked-In](https://www.linkedin.com/in/agentlopez/) You know, because let money = 1000000000000 doesn't work.
 
+
+### Assignment Overviews
+
+- [1st Group Project](/HoopsWizard) Check out our first group project. It's a client side JavaScript API consuming app.
+
+- [Week7 Assignmets](/Week7) Read more about the Back End - NodeJS assigments I finished.
+
+- [Week8 Assignmets](/Week8) Read more about the Full Stack - External Database assigments I finished.
+
 <!--
 **AgentLopez/AgentLopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
