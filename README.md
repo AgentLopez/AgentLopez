@@ -7,6 +7,8 @@
 
 ### Assignment Overviews
 
+- [2nd Group Project](https://github.com/AgentLopez/Week9) Read more about the 2nd Group project and the Upgrades I added after turning it in.
+
 - [Week8 Assignmets](https://github.com/AgentLopez/Week8) Read more about the Full Stack - External Database assigments I finished.
 
 - [Week7 Assignmets](https://github.com/AgentLopez/Week7) Read more about the Back End - NodeJS assigments I finished.
