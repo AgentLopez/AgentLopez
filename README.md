@@ -2,18 +2,22 @@
 
 - 🌱 I’m currently learning NODE JS. I'm really liking this server side deal. All the pieces coming together. I wonder if I'll have to grow out my mustache again cause I'm using mustache . . . 
 
-- [Linked-In](https://www.linkedin.com/in/agentlopez/) You know, because let money = 1000000000000 doesn't work.
-
 
 ### Assignment Overviews
 
-- [2nd Group Project](https://github.com/AgentLopez/Week9) Read more about the 2nd Group project and the Upgrades I added after turning it in.
+- [2nd Group Project](https://github.com/AgentLopez/Week9)  Read more about the 2nd Group project and the Upgrades I added after turning it in.
 
-- [Week8 Assignmets](https://github.com/AgentLopez/Week8) Read more about the Full Stack - External Database assigments I finished.
+- [Week8 Assignmets](https://github.com/AgentLopez/Week8)  Read more about the Full Stack - External Database assigments I finished.
 
-- [Week7 Assignmets](https://github.com/AgentLopez/Week7) Read more about the Back End - NodeJS assigments I finished.
+- [Week7 Assignmets](https://github.com/AgentLopez/Week7)  Read more about the Back End - NodeJS assigments I finished.
 
-- [1st Group Project](https://github.com/AgentLopez/HoopsWizard) Check out our first group project. It's a client side JavaScript API consuming app.
+- [1st Group Project](https://github.com/AgentLopez/HoopsWizard)  Check out our first group project. It's a client side JavaScript API consuming app.
+
+### Spot AgentLopez on the Web
+
+- [Linked-In](https://www.linkedin.com/in/agentlopez/)  You know, because let money = 1000000000000 doesn't work.
+
+- [AgentLopez HQ](https://www.agentlopez.com/)  My personal website.
 
 
 
