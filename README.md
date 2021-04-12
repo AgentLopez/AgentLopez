@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning NODE JS. I'm really liking this server side deal. All the pieces coming together. I wonder if I'll have to grow out my mustache again cause I'm using mustache . . . 
+- 🌱 I’m currently learning React.
 
 
 ### Assignment Overviews
