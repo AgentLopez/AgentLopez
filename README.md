@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning React.
+- It's Final Projects Time - For the next week, it's a solo project, followed by a capstone group project.
 
 
 ### Assignment Overviews
+
+- [Week13 Assignment](https://github.com/AgentLopez/Week13) Full-Stack Web Application with React, Redux, and JSON Web Token.
 
 - [2nd Group Project](https://github.com/AgentLopez/Week9)  Read more about the 2nd Group project and the Upgrades I added after turning it in.
 
