@@ -7,16 +7,35 @@
 
 ### Assignment/Project Overviews
 
-[![](week14.png)](https://github.com/AgentLopez/Week14) Bring your credit card to this site and make a purchase!
+## Imperfect Print
 
-[![](week13.png)](https://github.com/AgentLopez/Week13) Full-Stack Web Application with React, Redux, and JSON Web Token.
+[![](week14.png)](https://github.com/AgentLopez/Week14)
 
-[![](week9.png)](https://github.com/AgentLopez/Week9) Read more about the 2nd Group project and the Upgrades I added after turning it in.
+Bring your credit card to this site and make a purchase! This project uses React for the client side. The server side is NodeJS and features the use of express, jsonwebtoken, uuid, sequelize, dotenv, formidable, nodemailer and bcryptjs.
 
-[![](week8.png)](https://github.com/AgentLopez/Week8) Read more about the Full Stack - External Database assigments I finished.
+## Books4You
 
+[![](Week13.png)](https://github.com/AgentLopez/Week13) 
 
-[![](hoops.png)](https://github.com/AgentLopez/HoopsWizard) Check out our first group project. It's a client side JavaScript API consuming app.
+Full-Stack Web Application with React, Redux, and JSON Web Token.
+
+## Munchie Gourmet
+
+[![](Week9.png)](https://github.com/AgentLopez/Week9) 
+
+Got some ingredients in your kitchen? Let's find out what you can make! Once you've chosen a recipe, you can select what ingredients you need to create a shopping list for you to take to the store, come back and view preperation instructions on the recipes website.
+
+## Blog
+
+[![](Week8.png)](https://github.com/AgentLopez/Week8) 
+
+Read more about the Full Stack - External Database assigments I finished.
+
+## Overtime
+
+[![](hoops.png)](https://github.com/AgentLopez/HoopsWizard) 
+
+Check out our first group project. It's a client side JavaScript API consuming app.
 
 ### Spot AgentLopez on the Web
 
