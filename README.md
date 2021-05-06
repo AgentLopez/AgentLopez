@@ -1,19 +1,22 @@
-### Hi there 👋
+![](header.png)
+
+### Welcome to My GitHub Profile
 
 - It's Final Projects Time - For the next week, it's a solo project, followed by a capstone group project.
 
 
-### Assignment Overviews
+### Assignment/Project Overviews
 
-- [Week13 Assignment](https://github.com/AgentLopez/Week13) Full-Stack Web Application with React, Redux, and JSON Web Token.
+[![](week14.png)](https://github.com/AgentLopez/Week14) Bring your credit card to this site and make a purchase!
 
-- [2nd Group Project](https://github.com/AgentLopez/Week9)  Read more about the 2nd Group project and the Upgrades I added after turning it in.
+[![](week13.png)](https://github.com/AgentLopez/Week13) Full-Stack Web Application with React, Redux, and JSON Web Token.
 
-- [Week8 Assignmets](https://github.com/AgentLopez/Week8)  Read more about the Full Stack - External Database assigments I finished.
+[![](week9.png)](https://github.com/AgentLopez/Week9) Read more about the 2nd Group project and the Upgrades I added after turning it in.
 
-- [Week7 Assignmets](https://github.com/AgentLopez/Week7)  Read more about the Back End - NodeJS assigments I finished.
+[![](week8.png)](https://github.com/AgentLopez/Week8) Read more about the Full Stack - External Database assigments I finished.
 
-- [1st Group Project](https://github.com/AgentLopez/HoopsWizard)  Check out our first group project. It's a client side JavaScript API consuming app.
+
+[![](hoops.png)](https://github.com/AgentLopez/HoopsWizard) Check out our first group project. It's a client side JavaScript API consuming app.
 
 ### Spot AgentLopez on the Web
 
