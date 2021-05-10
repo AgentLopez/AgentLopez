@@ -2,7 +2,7 @@
 
 ### Welcome to My GitHub Profile
 
-- It's Final Projects Time - For the next week, it's a solo project, followed by a capstone group project.
+- It's Final Projects Time - It's time for our capstone group project.
 
 
 ### Assignment/Project Overviews
