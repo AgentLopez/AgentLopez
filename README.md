@@ -2,12 +2,20 @@
 
 ### Welcome to My GitHub Profile
 
-- I've completed the 16-Week DigitalCrafts Coding Bootcamp!
+- I've completed the 16-Week DigitalCrafts Coding Bootcamp in May 2021!
 
 
 ### Assignment/Project Overviews
 
-## Imperfect Print
+## [Succeed At Failing](https://succeedatfailing.com/)
+
+[![](saf.png)](https://github.com/jorgecuza92/happy-sad)
+
+As we search for jobs, there is not really any support from your community when you're just submitting applications. This app is a social platform that lets you applaud and support your fellow developers through sharing emojis in the feed showing applications submitted and rejection letters recieved. There is also a small competitive part with our top 5, to help in modivating to submit more applications.
+
+Using React we've made it responsive. [View Code](https://github.com/jorgecuza92/happy-sad)
+
+## [Imperfect Print](https://imperfectprint.com/)
 
 [![](week14.png)](https://github.com/AgentLopez/Week14)
 
@@ -19,7 +27,7 @@ Bring your credit card to this site and make a purchase! This project uses React
 
 Full-Stack Web Application with React, Redux, and JSON Web Token. [View Code](https://github.com/AgentLopez/Week13) 
 
-## Munchie Gourmet
+## [Munchie Gourmet](http://munchiegourmet.com/)
 
 [![](Week9.png)](https://github.com/AgentLopez/Week9) 
 
