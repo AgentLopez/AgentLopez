@@ -2,7 +2,7 @@
 
 ### Welcome to My GitHub Profile
 
-- It's Final Projects Time - It's time for our capstone group project.
+- I've completed the 16-Week DigitalCrafts Coding Bootcamp!
 
 
 ### Assignment/Project Overviews
