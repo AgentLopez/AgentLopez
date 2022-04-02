@@ -27,7 +27,7 @@ Bring your credit card to this site and make a purchase! This project uses React
 
 Full-Stack Web Application with React, Redux, and JSON Web Token. [View Code](https://github.com/AgentLopez/Week13) 
 
-## [Munchie Gourmet](http://munchiegourmet.com/)
+## [Munchie Gourmet](http://hungry.agentlopez.com/)
 
 [![](Week9.png)](https://github.com/AgentLopez/Week9) 
 
