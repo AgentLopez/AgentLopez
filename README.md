@@ -7,7 +7,7 @@
 
 ### Assignment/Project Overviews
 
-## [Succeed At Failing](https://succeedatfailing.com/)
+## [Succeed At Failing](https://saf.agentlopez.com/)
 
 [![](saf.png)](https://github.com/jorgecuza92/happy-sad)
 
