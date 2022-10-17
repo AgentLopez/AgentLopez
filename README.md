@@ -15,11 +15,13 @@ As we search for jobs, there is not really any support from your community when 
 
 Using React we've made it responsive. [View Code](https://github.com/jorgecuza92/happy-sad)
 
-## [Imperfect Print]
+## Imperfect Print
 
 [![](week14.png)](https://github.com/AgentLopez/Week14)
 
 Bring your credit card to this site and make a purchase! This project uses React for the client side. The server side is NodeJS and features the use of express, jsonwebtoken, uuid, sequelize, dotenv, formidable, nodemailer and bcryptjs. [View Code](https://github.com/AgentLopez/Week14)
+
+I've since let the domain expire, but you can see my demonstration on [Youtube](https://www.youtube.com/watch?v=bazn3fKef-I)
 
 ## Books4You
 
