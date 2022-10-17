@@ -15,7 +15,7 @@ As we search for jobs, there is not really any support from your community when 
 
 Using React we've made it responsive. [View Code](https://github.com/jorgecuza92/happy-sad)
 
-## [Imperfect Print](https://imperfectprint.com/)
+## [Imperfect Print]
 
 [![](week14.png)](https://github.com/AgentLopez/Week14)
 
