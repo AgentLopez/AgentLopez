@@ -7,7 +7,7 @@
 
 ### Assignment/Project Overviews
 
-## [Succeed At Failing](https://saf.agentlopez.com/)
+## Succeed At Failing
 
 [![](saf.png)](https://github.com/jorgecuza92/happy-sad)
 
@@ -29,7 +29,7 @@ I've since let the domain expire, but you can see my demonstration on [Youtube](
 
 Full-Stack Web Application with React, Redux, and JSON Web Token. [View Code](https://github.com/AgentLopez/Week13) 
 
-## [Munchie Gourmet](http://hungry.agentlopez.com/)
+## Munchie Gourmet
 
 [![](Week9.png)](https://github.com/AgentLopez/Week9) 
 
